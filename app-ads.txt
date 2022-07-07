@@ -1,4 +1,4 @@
-Puzzle.Fun.app.ads.txt,20220706,v1
+app.ads.txt,20220706
 #admob
 google.com, pub-8266139206836193, DIRECT, f08c47fec0942fa0
 
