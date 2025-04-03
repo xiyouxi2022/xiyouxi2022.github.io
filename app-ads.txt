@@ -9,6 +9,7 @@ google.com, pub-8866654859419315, DIRECT, f08c47fec0942fa0
 
 #facebook
 facebook.com, 1013086622679712, RESELLER, c3e20eee3f780d68
+facebook.com, 652965920606196, DIRECT, c3e20eee3f780d68
 
 #applovin
 applovin.com, f4ca0a6207c79f4313ee981c27121d3d, DIRECT
