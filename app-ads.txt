@@ -55,6 +55,34 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 
 # mintegral
+meazy.co, 15510, RESELLER
+xe.works, 15511, RESELLER
+pubmatic.com, 162837, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
+entravision.com, 1525, RESELLER
+display.io, 221372, RESELLER
+adingenious.com, 75075, RESELLER
+audiobranch.co, 256780, RESELLER
+auxoads.com, 12125, RESELLER
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24248, RESELLER, 0bfd66d529a55807
+lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
+xandr.com, 15840, RESELLER
+video.unrulymedia.com, 583925374, RESELLER
+admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+inmobi.com, fe4db13744124582a6a2b18964560ce7, RESELLER, 83e75a7ae333ca9d
+risecodes.com, 67e92bf7698942000140acce, RESELLER
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
+yieldmo.com, 2754490424016969782, RESELLER
+voisetech.com, 1127, RESELLER, 9009ef0379162448
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
+supply.colossusssp.com, 907, RESELLER
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
+zetaglobal.net, 512, RESELLER
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 mintegral.com, 41390, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
